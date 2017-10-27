@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508789310 source:/media/yasaman/327A646B7A642DB3/A/e, sources/OS/Homeworks/HW3/7/Q7/Q7/main.c
+	<stdio.h>
+	<stdlib.h>
+
