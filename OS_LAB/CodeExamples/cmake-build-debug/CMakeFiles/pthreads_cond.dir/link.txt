@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pthreads_cond.dir/pthreads/pthreads_condition.c.o  -o pthreads_cond -lpthread 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/process/forkex2.c
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+

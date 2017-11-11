@@ -1,0 +1,9 @@
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/process_fork1.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/ExampleCodes.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/pthreads_cond.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/process_system.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/pthreads_mut.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/process_fork2.dir
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/cmake-build-debug/CMakeFiles/pthreads.dir

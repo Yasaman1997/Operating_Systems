@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meraj/Desktop/OsLab/Section4/ExampleCodes/pthreads/pthreads_mutex.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+

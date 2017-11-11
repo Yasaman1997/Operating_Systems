@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/process_fork1.dir/process/forkex1.c.o  -o process_fork1 
