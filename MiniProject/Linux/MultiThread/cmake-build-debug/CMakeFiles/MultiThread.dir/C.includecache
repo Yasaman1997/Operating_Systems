@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Linux/MultiThread/main.c
+stdio.h
+-
+

@@ -1,0 +1,4 @@
+/home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Linux/MultiThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Linux/MultiThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Linux/MultiThread/cmake-build-debug/CMakeFiles/MultiThread.dir
+/home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Linux/MultiThread/cmake-build-debug/CMakeFiles/pthreads.dir
