@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SingleThread.dir/main.c.o  -o SingleThread 
