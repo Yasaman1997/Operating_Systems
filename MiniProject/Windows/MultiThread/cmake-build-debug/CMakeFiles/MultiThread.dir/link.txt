@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/MultiThread.dir/main.c.o CMakeFiles/MultiThread.dir/test.c.o  -o MultiThread 

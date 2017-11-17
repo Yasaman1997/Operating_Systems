@@ -1,0 +1,4 @@
+/home/yasaman/Downloads/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Windows/MultiThread"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yasaman/Yasaman/A/e, sources/OS/HW/Mini_Project(HW4)/Windows/MultiThread/cmake-build-debug
