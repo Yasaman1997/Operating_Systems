@@ -1,5 +1,5 @@
 
-**Project description
+##Project description
 
 *You should add a misc char device driver to your Linux
 kernel using kernel modules
